@@ -38,7 +38,8 @@ analysed with H²MM to extract conformational states and transition dynamics:
 ```
 ftm_mpH2MM/
 ├── notebooks/
-│   ├── H2MM_PTU_Alexa555_647_MULTIFILE.ipynb   ← main analysis (multi-PTU)
+│   ├── H2MM_PTU_Alexa555_647_MULTIFILE.ipynb   ← main analysis (multi-PTU)- in use
+
 │   ├── H2MM_PTU_Alexa555_647_FIXED.ipynb        ← single-file version
 │   ├── H2MM_PTU_Alexa555_647_CORRECTED.ipynb    ← earlier corrected version
 │   ├── H2MM_CSV_Alexa555_647.ipynb              ← CSV-based analysis
